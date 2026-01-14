@@ -1,4 +1,16 @@
 {
-    "initial_capital": ,
-    "transactions": []
+    "initial_capital": 0,
+    "transactions": [
+        {
+            "recorder": "โอม",
+            "buyer": "โย",
+            "item": "god fg cdk sky",
+            "cost": 32.0,
+            "price": 70.0,
+            "qty": 100,
+            "total": 7000.0,
+            "profit": 3800.0,
+            "status": "ยังไม่โอน"
+        }
+    ]
 }
