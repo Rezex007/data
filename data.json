@@ -1,26 +1,4 @@
 {
     "initial_capital": 50000,
-    "transactions": [
-        {
-            "buyer": "god",
-            "item": "yo",
-            "cost": 50.0,
-            "price": 90.0,
-            "qty": 100,
-            "total": 9000.0,
-            "profit": 4000.0,
-            "status": "ยังไม่โอน",
-            "type": "รายรับ"
-        },
-        {
-            "buyer": "โย",
-            "item": "หมวกจกดาบ",
-            "cost": 25.0,
-            "price": 30.0,
-            "qty": 240,
-            "total": 7200.0,
-            "profit": 1200.0,
-            "status": "ยังไม่โอน"
-        }
-    ]
+    "transactions": []
 }
