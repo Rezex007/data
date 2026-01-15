@@ -11,6 +11,17 @@
             "total": 4000.0,
             "profit": 2000.0,
             "status": "ยังไม่โอน"
+        },
+        {
+            "recorder": "limi",
+            "buyer": "พี",
+            "item": "godfgcdk",
+            "cost": 20.0,
+            "price": 100.0,
+            "qty": 50,
+            "total": 5000.0,
+            "profit": 4000.0,
+            "status": "ยังไม่โอน"
         }
     ]
 }
