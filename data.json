@@ -1,4 +1,16 @@
 {
     "initial_capital": 50000.0,
-    "transactions": []
+    "transactions": [
+        {
+            "recorder": "ไไฟ",
+            "buyer": "awf",
+            "item": "aw",
+            "cost": 34.0,
+            "price": 333.0,
+            "qty": 3333,
+            "total": 1109889.0,
+            "profit": 996567.0,
+            "status": "ยังไม่โอน"
+        }
+    ]
 }
