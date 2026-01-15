@@ -1,4 +1,16 @@
 {
     "initial_capital": 50000.0,
-    "transactions": []
+    "transactions": [
+        {
+            "recorder": "awfaw",
+            "buyer": "กู",
+            "item": "ฟไดฟได",
+            "cost": 20.0,
+            "price": 40.0,
+            "qty": 100,
+            "total": 4000.0,
+            "profit": 2000.0,
+            "status": "ยังไม่โอน"
+        }
+    ]
 }
