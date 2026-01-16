@@ -77,6 +77,17 @@
             "total": 4550.0,
             "profit": 2310.0,
             "status": "โอนแล้ว"
+        },
+        {
+            "recorder": "Wasabi",
+            "buyer": "pk",
+            "item": "V4 T10 CDK ผลโหด",
+            "cost": 32.0,
+            "price": 75.0,
+            "qty": 270,
+            "total": 20250.0,
+            "profit": 11610.0,
+            "status": "โอนแล้ว"
         }
     ]
 }
