@@ -1,4 +1,16 @@
 {
     "initial_capital": 50000.0,
-    "transactions": []
+    "transactions": [
+        {
+            "recorder": "โอมเองไงจะใครล่ะ",
+            "buyer": "ควย",
+            "item": " จิ๋มกระป๋อง",
+            "cost": 299.0,
+            "price": 500.0,
+            "qty": 100,
+            "total": 50000.0,
+            "profit": 20100.0,
+            "status": "ยังไม่โอน"
+        }
+    ]
 }
