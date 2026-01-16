@@ -33,6 +33,17 @@
             "total": 27315.0,
             "profit": 7891.0,
             "status": "โอนแล้ว"
+        },
+        {
+            "recorder": "Wasabi",
+            "buyer": "Apisit",
+            "item": "",
+            "cost": 0.0,
+            "price": 0.0,
+            "qty": 0,
+            "total": 0.0,
+            "profit": 0.0,
+            "status": "โอนแล้ว"
         }
     ]
 }
