@@ -44,6 +44,17 @@
             "total": 9750.0,
             "profit": 3510.0,
             "status": "โอนแล้ว"
+        },
+        {
+            "recorder": "Wasabi",
+            "buyer": "Nooker",
+            "item": "V4 T10 CDK",
+            "cost": 180.0,
+            "price": 32.0,
+            "qty": 50,
+            "total": 1600.0,
+            "profit": -7400.0,
+            "status": "โอนแล้ว"
         }
     ]
 }
