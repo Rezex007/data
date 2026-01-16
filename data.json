@@ -88,6 +88,17 @@
             "total": 20250.0,
             "profit": 11610.0,
             "status": "โอนแล้ว"
+        },
+        {
+            "recorder": "Wasabi",
+            "buyer": "Yotin",
+            "item": "V4 T10 CDK",
+            "cost": 32.0,
+            "price": 50.0,
+            "qty": 127,
+            "total": 6350.0,
+            "profit": 2286.0,
+            "status": "โอนแล้ว"
         }
     ]
 }
