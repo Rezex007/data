@@ -1,4 +1,16 @@
 {
     "initial_capital": 50000.0,
-    "transactions": []
+    "transactions": [
+        {
+            "recorder": "Wasabi",
+            "buyer": "Dar_111",
+            "item": "CDK MM",
+            "cost": 18.0,
+            "price": 30.0,
+            "qty": 98,
+            "total": 2940.0,
+            "profit": 1176.0,
+            "status": "ยังไม่โอน"
+        }
+    ]
 }
