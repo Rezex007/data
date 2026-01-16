@@ -11,6 +11,17 @@
             "total": 2940.0,
             "profit": 1176.0,
             "status": "ยังไม่โอน"
+        },
+        {
+            "recorder": "Wasabi",
+            "buyer": "leowinmorsai\n",
+            "item": "V4 T10 CDK",
+            "cost": 32.0,
+            "price": 45.0,
+            "qty": 10,
+            "total": 450.0,
+            "profit": 130.0,
+            "status": "ยังไม่โอน"
         }
     ]
 }
