@@ -110,6 +110,17 @@
             "total": 9000.0,
             "profit": 3240.0,
             "status": "โอนแล้ว"
+        },
+        {
+            "recorder": "Wasabi",
+            "buyer": "Minis2",
+            "item": "GOD",
+            "cost": 1.5,
+            "price": 12.0,
+            "qty": 65,
+            "total": 780.0,
+            "profit": 682.5,
+            "status": "ยังไม่โอน"
         }
     ]
 }
