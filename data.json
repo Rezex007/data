@@ -112,14 +112,14 @@
             "status": "โอนแล้ว"
         },
         {
-            "recorder": "Wasabi",
-            "buyer": "Minis2",
-            "item": "GOD",
-            "cost": 1.5,
-            "price": 12.0,
-            "qty": 65,
-            "total": 780.0,
-            "profit": 682.5,
+            "recorder": "rezex",
+            "buyer": "Dar_111",
+            "item": "CDK MM",
+            "cost": 18.0,
+            "price": 30.0,
+            "qty": 10,
+            "total": 300.0,
+            "profit": 120.0,
             "status": "ยังไม่โอน"
         }
     ]
