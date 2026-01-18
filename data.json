@@ -121,6 +121,17 @@
             "total": 300.0,
             "profit": 120.0,
             "status": "โอนแล้ว"
+        },
+        {
+            "recorder": "rezex",
+            "buyer": "ไฮสเปด",
+            "item": "ไอดีเจน",
+            "cost": 0.0,
+            "price": 1.5,
+            "qty": 2635,
+            "total": 3952.5,
+            "profit": -3952.5,
+            "status": "โอนแล้ว"
         }
     ]
 }
